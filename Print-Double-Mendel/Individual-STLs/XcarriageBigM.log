@@ -1,0 +1,33 @@
+Info:           Start_Modeler
+Info:     ========================
+Info: 
+Info: =================================================
+Info: Software Information
+Info: 
+Info: PARASOLID Version: 22.0.186
+Info: PSBodyshop Version: 13.0.67
+Info: Step3d Translator Version: 11.167.0
+Info: SOLID EDGE Version: 102.00.00.116
+Info: =================================================
+Info: Step Write Options
+Info: 
+Info: PSSTEP_GetConvSolidToClassIIWires: 0
+Info: PSSTEP_GetConvSolidToClassIVFaces: 0
+Info: PSSTEP_GetConvSolidToSolid: 1
+Info: PSSTEP_GetWriteUnit: mms
+Info: PSSTEP_GetPsToStepAttribTransfOpt: 1
+Info: PSSTEP_GetPsToStepNameAttribTransfOpt: 1
+Info: PSSTEP_GetWriteAP214: 0
+Info: PSSTEP_GetWriteAssemAsContextDepShpRep: 0
+Info: =================================================
+Info: Translation Process
+Info: 
+LOG: Conversion: Begin
+LOG: Conversion: End
+Info: 
+Info: Translation succeeded
+Info: Number of bodies in the Step file: 1
+Info: =================================================
+Info: 
+Info:     ========================
+Info:           Stop_Modeler
